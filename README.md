@@ -23,3 +23,11 @@ The code was implemented and tested using Theano (0.9.0).
 # Data
 `nell_concept2vec.txt` stores the pretrained 100-dim embeddings for concepts in the ontology of NELL (<http://rtw.ml.cmu.edu/rtw>).
 `wn_concept2vec.txt` stores the pretrained 100-dim embeddings for synsets in WordNet.
+
+# References
+
+tagger: Named Entity Recognition Tool (<https://github.com/glample/tagger>)
+
+# License
+
+Apache-2.0
